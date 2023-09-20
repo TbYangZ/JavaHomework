@@ -1,3 +1,9 @@
+<style>
+table {
+margin: auto;
+}
+</style>
+
 ## Java Homework
 
 这个仓库是存储了本人在 Java 程序设计课程里的作业，作为记录。
